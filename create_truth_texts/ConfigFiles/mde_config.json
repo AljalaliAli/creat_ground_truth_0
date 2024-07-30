@@ -1,0 +1,1217 @@
+{
+    "images": {
+        "1": {
+            "size": {
+                "width": 1024,
+                "height": 768
+            },
+            "path": "1_L_PS.tiff",
+            "features": {
+                "1": {
+                    "position": {
+                        "x1": 3,
+                        "y1": 2,
+                        "x2": 809,
+                        "y2": 42
+                    },
+                    "value": "",
+                    "sypol": ""
+                }
+            },
+            "parameters": {
+                "run": {
+                    "name": "run",
+                    "position": {
+                        "x1": 79,
+                        "y1": 657,
+                        "x2": 95,
+                        "y2": 677
+                    }
+                },
+                "tool": {
+                    "name": "tool",
+                    "position": {
+                        "x1": 311,
+                        "y1": 655,
+                        "x2": 458,
+                        "y2": 675
+                    }
+                },
+                "pgm": {
+                    "name": "pgm",
+                    "position": {
+                        "x1": 591,
+                        "y1": 466,
+                        "x2": 881,
+                        "y2": 489
+                    }
+                }
+            }
+        },
+        "2": {
+            "size": {
+                "width": 1024,
+                "height": 768
+            },
+            "path": "2_L_PS.tiff",
+            "features": {
+                "2": {
+                    "position": {
+                        "x1": 5,
+                        "y1": 3,
+                        "x2": 504,
+                        "y2": 43
+                    },
+                    "value": "",
+                    "sypol": ""
+                }
+            },
+            "parameters": {
+                "run": {
+                    "name": "run",
+                    "position": {
+                        "x1": 80,
+                        "y1": 657,
+                        "x2": 93,
+                        "y2": 674
+                    }
+                },
+                "tool": {
+                    "name": "tool",
+                    "position": {
+                        "x1": 323,
+                        "y1": 657,
+                        "x2": 455,
+                        "y2": 674
+                    }
+                },
+                "pgm": {
+                    "name": "pgm",
+                    "position": {
+                        "x1": 591,
+                        "y1": 468,
+                        "x2": 877,
+                        "y2": 485
+                    }
+                }
+            }
+        },
+        "20": {
+            "size": {
+                "width": 1024,
+                "height": 768
+            },
+            "path": "20_MB_MB.tiff",
+            "features": {
+                "20": {
+                    "position": {
+                        "x1": 6,
+                        "y1": 4,
+                        "x2": 801,
+                        "y2": 41
+                    },
+                    "value": "",
+                    "sypol": ""
+                }
+            },
+            "parameters": {
+                "tool": {
+                    "name": "tool",
+                    "position": {
+                        "x1": 134,
+                        "y1": 552,
+                        "x2": 258,
+                        "y2": 571
+                    }
+                },
+                "pgm": {
+                    "name": "pgm",
+                    "position": {
+                        "x1": 589,
+                        "y1": 548,
+                        "x2": 881,
+                        "y2": 571
+                    }
+                }
+            }
+        },
+        "21": {
+            "size": {
+                "width": 1024,
+                "height": 768
+            },
+            "path": "21_MB_EH.tiff",
+            "features": {
+                "21": {
+                    "position": {
+                        "x1": 6,
+                        "y1": 2,
+                        "x2": 810,
+                        "y2": 47
+                    },
+                    "value": "",
+                    "sypol": ""
+                }
+            },
+            "parameters": {
+                "tool": {
+                    "name": "tool",
+                    "position": {
+                        "x1": 132,
+                        "y1": 553,
+                        "x2": 256,
+                        "y2": 572
+                    }
+                }
+            }
+        },
+        "22": {
+            "size": {
+                "width": 1024,
+                "height": 768
+            },
+            "path": "22_MB_B4.tiff",
+            "features": {
+                "22": {
+                    "position": {
+                        "x1": 6,
+                        "y1": 2,
+                        "x2": 812,
+                        "y2": 43
+                    },
+                    "value": "",
+                    "sypol": ""
+                }
+            },
+            "parameters": {
+                "tool": {
+                    "name": "tool",
+                    "position": {
+                        "x1": 135,
+                        "y1": 552,
+                        "x2": 257,
+                        "y2": 571
+                    }
+                },
+                "pgm": {
+                    "name": "pgm",
+                    "position": {
+                        "x1": 590,
+                        "y1": 549,
+                        "x2": 882,
+                        "y2": 570
+                    }
+                }
+            }
+        },
+        "50": {
+            "size": {
+                "width": 1024,
+                "height": 768
+            },
+            "path": "50_LN_DV1.tiff",
+            "features": {
+                "50": {
+                    "position": {
+                        "x1": 4,
+                        "y1": 4,
+                        "x2": 806,
+                        "y2": 45
+                    },
+                    "value": "",
+                    "sypol": ""
+                }
+            },
+            "parameters": {}
+        },
+        "51": {
+            "size": {
+                "width": 1024,
+                "height": 768
+            },
+            "path": "51_LN_DV2.tiff",
+            "features": {
+                "51": {
+                    "position": {
+                        "x1": 185,
+                        "y1": 3,
+                        "x2": 987,
+                        "y2": 43
+                    },
+                    "value": "",
+                    "sypol": ""
+                }
+            },
+            "parameters": {}
+        },
+        "52": {
+            "size": {
+                "width": 1024,
+                "height": 768
+            },
+            "path": "52_LN_H1.tiff",
+            "features": {
+                "52": {
+                    "position": {
+                        "x1": 4,
+                        "y1": 86,
+                        "x2": 1016,
+                        "y2": 155
+                    },
+                    "value": "",
+                    "sypol": ""
+                }
+            },
+            "parameters": {}
+        },
+        "53": {
+            "size": {
+                "width": 1024,
+                "height": 768
+            },
+            "path": "53_LN_H2.tiff",
+            "features": {
+                "53": {
+                    "position": {
+                        "x1": 4,
+                        "y1": 3,
+                        "x2": 813,
+                        "y2": 45
+                    },
+                    "value": "",
+                    "sypol": ""
+                }
+            },
+            "parameters": {}
+        },
+        "54": {
+            "size": {
+                "width": 1024,
+                "height": 768
+            },
+            "path": "54_LN_H3.tiff",
+            "features": {
+                "54": {
+                    "position": {
+                        "x1": 4,
+                        "y1": 2,
+                        "x2": 810,
+                        "y2": 43
+                    },
+                    "value": "",
+                    "sypol": ""
+                }
+            },
+            "parameters": {}
+        },
+        "55": {
+            "size": {
+                "width": 1024,
+                "height": 768
+            },
+            "path": "55_LN_PLC.tiff",
+            "features": {
+                "55": {
+                    "position": {
+                        "x1": 184,
+                        "y1": 3,
+                        "x2": 992,
+                        "y2": 41
+                    },
+                    "value": "",
+                    "sypol": ""
+                }
+            },
+            "parameters": {}
+        },
+        "56": {
+            "size": {
+                "width": 1024,
+                "height": 768
+            },
+            "path": "56_LN_PmH.tiff",
+            "features": {
+                "56": {
+                    "position": {
+                        "x1": 4,
+                        "y1": 3,
+                        "x2": 808,
+                        "y2": 42
+                    },
+                    "value": "",
+                    "sypol": ""
+                }
+            },
+            "parameters": {
+                "tool": {
+                    "name": "tool",
+                    "position": {
+                        "x1": 312,
+                        "y1": 656,
+                        "x2": 458,
+                        "y2": 676
+                    }
+                },
+                "pgm": {
+                    "name": "pgm",
+                    "position": {
+                        "x1": 591,
+                        "y1": 468,
+                        "x2": 882,
+                        "y2": 487
+                    }
+                }
+            }
+        },
+        "57": {
+            "size": {
+                "width": 1024,
+                "height": 768
+            },
+            "path": "57_LN_PE.tiff",
+            "features": {
+                "57": {
+                    "position": {
+                        "x1": 184,
+                        "y1": 3,
+                        "x2": 987,
+                        "y2": 41
+                    },
+                    "value": "",
+                    "sypol": ""
+                }
+            },
+            "parameters": {}
+        },
+        "58": {
+            "size": {
+                "width": 1024,
+                "height": 768
+            },
+            "path": "58_LN_PES.tiff",
+            "features": {
+                "58": {
+                    "position": {
+                        "x1": 4,
+                        "y1": 3,
+                        "x2": 805,
+                        "y2": 41
+                    },
+                    "value": "",
+                    "sypol": ""
+                }
+            },
+            "parameters": {}
+        },
+        "59": {
+            "size": {
+                "width": 1024,
+                "height": 768
+            },
+            "path": "59_LN_PT.tiff",
+            "features": {
+                "59": {
+                    "position": {
+                        "x1": 185,
+                        "y1": 4,
+                        "x2": 986,
+                        "y2": 42
+                    },
+                    "value": "",
+                    "sypol": ""
+                }
+            },
+            "parameters": {}
+        },
+        "60": {
+            "size": {
+                "width": 1280,
+                "height": 1024
+            },
+            "path": "60_LN_PTE.tiff",
+            "features": {
+                "60": {
+                    "position": {
+                        "x1": 3,
+                        "y1": 3,
+                        "x2": 895,
+                        "y2": 41
+                    },
+                    "value": "",
+                    "sypol": ""
+                }
+            },
+            "parameters": {}
+        },
+        "61": {
+            "size": {
+                "width": 1024,
+                "height": 768
+            },
+            "path": "61_LN_WTE.tiff",
+            "features": {
+                "61": {
+                    "position": {
+                        "x1": 2,
+                        "y1": 2,
+                        "x2": 806,
+                        "y2": 40
+                    },
+                    "value": "",
+                    "sypol": ""
+                }
+            },
+            "parameters": {}
+        },
+        "62": {
+            "size": {
+                "width": 1024,
+                "height": 768
+            },
+            "path": "62_LN_PTE.tiff",
+            "features": {
+                "62": {
+                    "position": {
+                        "x1": 8,
+                        "y1": 8,
+                        "x2": 524,
+                        "y2": 39
+                    },
+                    "value": "",
+                    "sypol": ""
+                }
+            },
+            "parameters": {}
+        },
+        "63": {
+            "size": {
+                "width": 1024,
+                "height": 768
+            },
+            "path": "63_LN_TE.tiff",
+            "features": {
+                "63": {
+                    "position": {
+                        "x1": 8,
+                        "y1": 8,
+                        "x2": 389,
+                        "y2": 39
+                    },
+                    "value": "",
+                    "sypol": ""
+                }
+            },
+            "parameters": {}
+        },
+        "64": {
+            "size": {
+                "width": 1024,
+                "height": 768
+            },
+            "path": "64_LN_Rp.tiff",
+            "features": {
+                "64": {
+                    "position": {
+                        "x1": 7,
+                        "y1": 7,
+                        "x2": 565,
+                        "y2": 41
+                    },
+                    "value": "",
+                    "sypol": ""
+                }
+            },
+            "parameters": {}
+        },
+        "100": {
+            "size": {
+                "width": 1024,
+                "height": 768
+            },
+            "path": "100_F_06.tiff",
+            "features": {
+                "100": {
+                    "position": {
+                        "x1": 4,
+                        "y1": 2,
+                        "x2": 817,
+                        "y2": 41
+                    },
+                    "value": "",
+                    "sypol": ""
+                }
+            },
+            "parameters": {}
+        },
+        "101": {
+            "size": {
+                "width": 1024,
+                "height": 768
+            },
+            "path": "101_F_44.tiff",
+            "features": {
+                "101": {
+                    "position": {
+                        "x1": 3,
+                        "y1": 3,
+                        "x2": 812,
+                        "y2": 41
+                    },
+                    "value": "",
+                    "sypol": ""
+                }
+            },
+            "parameters": {}
+        },
+        "103": {
+            "size": {
+                "width": 1024,
+                "height": 768
+            },
+            "path": "103_F_82.tiff",
+            "features": {
+                "103": {
+                    "position": {
+                        "x1": 3,
+                        "y1": 2,
+                        "x2": 816,
+                        "y2": 40
+                    },
+                    "value": "",
+                    "sypol": ""
+                }
+            },
+            "parameters": {}
+        },
+        "104": {
+            "size": {
+                "width": 1024,
+                "height": 768
+            },
+            "path": "104_F_AiS.tiff",
+            "features": {
+                "104": {
+                    "position": {
+                        "x1": 184,
+                        "y1": 4,
+                        "x2": 530,
+                        "y2": 37
+                    },
+                    "value": "",
+                    "sypol": ""
+                }
+            },
+            "parameters": {}
+        },
+        "105": {
+            "size": {
+                "width": 1024,
+                "height": 768
+            },
+            "path": "105_F_ABnm.tiff",
+            "features": {
+                "105": {
+                    "position": {
+                        "x1": 184,
+                        "y1": 4,
+                        "x2": 989,
+                        "y2": 42
+                    },
+                    "value": "",
+                    "sypol": ""
+                }
+            },
+            "parameters": {}
+        },
+        "106": {
+            "size": {
+                "width": 1280,
+                "height": 1024
+            },
+            "path": "106_F_Bzg.tiff",
+            "features": {
+                "106": {
+                    "position": {
+                        "x1": 4,
+                        "y1": 3,
+                        "x2": 888,
+                        "y2": 42
+                    },
+                    "value": "",
+                    "sypol": ""
+                }
+            },
+            "parameters": {}
+        },
+        "107": {
+            "size": {
+                "width": 1024,
+                "height": 768
+            },
+            "path": "107_F_End.tiff",
+            "features": {
+                "107": {
+                    "position": {
+                        "x1": 6,
+                        "y1": 3,
+                        "x2": 261,
+                        "y2": 42
+                    },
+                    "value": "",
+                    "sypol": ""
+                }
+            },
+            "parameters": {}
+        },
+        "108": {
+            "size": {
+                "width": 1024,
+                "height": 768
+            },
+            "path": "108_F_ExNA.tiff",
+            "features": {
+                "108": {
+                    "position": {
+                        "x1": 7,
+                        "y1": 3,
+                        "x2": 816,
+                        "y2": 41
+                    },
+                    "value": "",
+                    "sypol": ""
+                }
+            },
+            "parameters": {}
+        },
+        "109": {
+            "size": {
+                "width": 1280,
+                "height": 1024
+            },
+            "path": "109_F_ExNH.tiff",
+            "features": {
+                "109": {
+                    "position": {
+                        "x1": 5,
+                        "y1": 4,
+                        "x2": 894,
+                        "y2": 41
+                    },
+                    "value": "",
+                    "sypol": ""
+                }
+            },
+            "parameters": {}
+        },
+        "110": {
+            "size": {
+                "width": 1024,
+                "height": 768
+            },
+            "path": "110_F_MPE.tiff",
+            "features": {
+                "110": {
+                    "position": {
+                        "x1": 186,
+                        "y1": 3,
+                        "x2": 995,
+                        "y2": 40
+                    },
+                    "value": "",
+                    "sypol": ""
+                }
+            },
+            "parameters": {}
+        },
+        "111": {
+            "size": {
+                "width": 1024,
+                "height": 768
+            },
+            "path": "111_F_Ta.tiff",
+            "features": {
+                "111": {
+                    "position": {
+                        "x1": 2,
+                        "y1": 4,
+                        "x2": 820,
+                        "y2": 42
+                    },
+                    "value": "",
+                    "sypol": ""
+                }
+            },
+            "parameters": {}
+        },
+        "112": {
+            "size": {
+                "width": 1280,
+                "height": 1024
+            },
+            "path": "112_F_UVVD.tiff",
+            "features": {
+                "112": {
+                    "position": {
+                        "x1": 3,
+                        "y1": 3,
+                        "x2": 895,
+                        "y2": 39
+                    },
+                    "value": "",
+                    "sypol": ""
+                }
+            },
+            "parameters": {}
+        },
+        "113": {
+            "size": {
+                "width": 1024,
+                "height": 768
+            },
+            "path": "113_F_UVVF.tiff",
+            "features": {
+                "113": {
+                    "position": {
+                        "x1": 3,
+                        "y1": 4,
+                        "x2": 816,
+                        "y2": 41
+                    },
+                    "value": "",
+                    "sypol": ""
+                }
+            },
+            "parameters": {}
+        },
+        "114": {
+            "size": {
+                "width": 1024,
+                "height": 768
+            },
+            "path": "114_F_UVVV.tiff",
+            "features": {
+                "114": {
+                    "position": {
+                        "x1": 5,
+                        "y1": 3,
+                        "x2": 812,
+                        "y2": 40
+                    },
+                    "value": "",
+                    "sypol": ""
+                }
+            },
+            "parameters": {}
+        },
+        "115": {
+            "size": {
+                "width": 1280,
+                "height": 1024
+            },
+            "path": "115_F_Vf.tiff",
+            "features": {
+                "115": {
+                    "position": {
+                        "x1": 4,
+                        "y1": 4,
+                        "x2": 892,
+                        "y2": 39
+                    },
+                    "value": "",
+                    "sypol": ""
+                }
+            },
+            "parameters": {}
+        },
+        "116": {
+            "size": {
+                "width": 1024,
+                "height": 768
+            },
+            "path": "116_F_WZMT.tiff",
+            "features": {
+                "116": {
+                    "position": {
+                        "x1": 95,
+                        "y1": 5,
+                        "x2": 325,
+                        "y2": 41
+                    },
+                    "value": "",
+                    "sypol": ""
+                }
+            },
+            "parameters": {}
+        },
+        "117": {
+            "size": {
+                "width": 1024,
+                "height": 768
+            },
+            "path": "117_F_VEO.tiff",
+            "features": {
+                "117": {
+                    "position": {
+                        "x1": 94,
+                        "y1": 5,
+                        "x2": 452,
+                        "y2": 43
+                    },
+                    "value": "",
+                    "sypol": ""
+                }
+            },
+            "parameters": {}
+        },
+        "118": {
+            "size": {
+                "width": 1024,
+                "height": 768
+            },
+            "path": "118_F_89pH.tiff",
+            "features": {
+                "118": {
+                    "position": {
+                        "x1": 185,
+                        "y1": 8,
+                        "x2": 608,
+                        "y2": 40
+                    },
+                    "value": "",
+                    "sypol": ""
+                }
+            },
+            "parameters": {}
+        },
+        "119": {
+            "size": {
+                "width": 1024,
+                "height": 768
+            },
+            "path": "119_F_exNH.tiff",
+            "features": {
+                "119": {
+                    "position": {
+                        "x1": 8,
+                        "y1": 5,
+                        "x2": 393,
+                        "y2": 40
+                    },
+                    "value": "",
+                    "sypol": ""
+                }
+            },
+            "parameters": {}
+        },
+        "250": {
+            "size": {
+                "width": 1024,
+                "height": 768
+            },
+            "path": "250_H_ATC.tiff",
+            "features": {
+                "250": {
+                    "position": {
+                        "x1": 3,
+                        "y1": 4,
+                        "x2": 248,
+                        "y2": 39
+                    },
+                    "value": "",
+                    "sypol": ""
+                }
+            },
+            "parameters": {}
+        },
+        "251": {
+            "size": {
+                "width": 1024,
+                "height": 768
+            },
+            "path": "251_H_Dnv.tiff",
+            "features": {
+                "251": {
+                    "position": {
+                        "x1": 185,
+                        "y1": 4,
+                        "x2": 992,
+                        "y2": 36
+                    },
+                    "value": "",
+                    "sypol": ""
+                }
+            },
+            "parameters": {}
+        },
+        "252": {
+            "size": {
+                "width": 1024,
+                "height": 768
+            },
+            "path": "252_H_KS.tiff",
+            "features": {
+                "252": {
+                    "position": {
+                        "x1": 7,
+                        "y1": 4,
+                        "x2": 814,
+                        "y2": 42
+                    },
+                    "value": "",
+                    "sypol": ""
+                }
+            },
+            "parameters": {}
+        },
+        "253": {
+            "size": {
+                "width": 1024,
+                "height": 768
+            },
+            "path": "253_H_Koem.tiff",
+            "features": {
+                "253": {
+                    "position": {
+                        "x1": 4,
+                        "y1": 3,
+                        "x2": 808,
+                        "y2": 41
+                    },
+                    "value": "",
+                    "sypol": ""
+                }
+            },
+            "parameters": {}
+        },
+        "254": {
+            "size": {
+                "width": 1024,
+                "height": 768
+            },
+            "path": "254_H_Snv.tiff",
+            "features": {
+                "254": {
+                    "position": {
+                        "x1": 184,
+                        "y1": 3,
+                        "x2": 988,
+                        "y2": 37
+                    },
+                    "value": "",
+                    "sypol": ""
+                }
+            },
+            "parameters": {}
+        },
+        "255": {
+            "size": {
+                "width": 1024,
+                "height": 768
+            },
+            "path": "255_H_ToF1.tiff",
+            "features": {
+                "255": {
+                    "position": {
+                        "x1": 3,
+                        "y1": 3,
+                        "x2": 824,
+                        "y2": 41
+                    },
+                    "value": "",
+                    "sypol": ""
+                }
+            },
+            "parameters": {}
+        },
+        "256": {
+            "size": {
+                "width": 1024,
+                "height": 768
+            },
+            "path": "256_H_ToF2.tiff",
+            "features": {
+                "256": {
+                    "position": {
+                        "x1": 185,
+                        "y1": 4,
+                        "x2": 984,
+                        "y2": 42
+                    },
+                    "value": "",
+                    "sypol": ""
+                }
+            },
+            "parameters": {}
+        },
+        "257": {
+            "size": {
+                "width": 1024,
+                "height": 768
+            },
+            "path": "257_H_ToF3.tiff",
+            "features": {
+                "257": {
+                    "position": {
+                        "x1": 5,
+                        "y1": 3,
+                        "x2": 816,
+                        "y2": 42
+                    },
+                    "value": "",
+                    "sypol": ""
+                }
+            },
+            "parameters": {}
+        },
+        "258": {
+            "size": {
+                "width": 1024,
+                "height": 768
+            },
+            "path": "258_H_WaSn.tiff",
+            "features": {
+                "258": {
+                    "position": {
+                        "x1": 3,
+                        "y1": 2,
+                        "x2": 808,
+                        "y2": 40
+                    },
+                    "value": "",
+                    "sypol": ""
+                }
+            },
+            "parameters": {}
+        },
+        "259": {
+            "size": {
+                "width": 1024,
+                "height": 768
+            },
+            "path": "259_H_Ww.tiff",
+            "features": {
+                "259": {
+                    "position": {
+                        "x1": 6,
+                        "y1": 4,
+                        "x2": 813,
+                        "y2": 41
+                    },
+                    "value": "",
+                    "sypol": ""
+                }
+            },
+            "parameters": {}
+        },
+        "260": {
+            "size": {
+                "width": 1024,
+                "height": 768
+            },
+            "path": "260_H_Wig.tiff",
+            "features": {
+                "260": {
+                    "position": {
+                        "x1": 6,
+                        "y1": 3,
+                        "x2": 816,
+                        "y2": 40
+                    },
+                    "value": "",
+                    "sypol": ""
+                }
+            },
+            "parameters": {}
+        },
+        "261": {
+            "size": {
+                "width": 1024,
+                "height": 768
+            },
+            "path": "261_H_Fok.tiff",
+            "features": {
+                "261": {
+                    "position": {
+                        "x1": 79,
+                        "y1": 4,
+                        "x2": 622,
+                        "y2": 43
+                    },
+                    "value": "",
+                    "sypol": ""
+                }
+            },
+            "parameters": {}
+        },
+        "120": {
+            "size": {
+                "width": 1024,
+                "height": 768
+            },
+            "path": "120_F_SUEbX.tiff",
+            "features": {
+                "120": {
+                    "position": {
+                        "x1": 8,
+                        "y1": 3,
+                        "x2": 562,
+                        "y2": 42
+                    },
+                    "value": "",
+                    "sypol": ""
+                }
+            },
+            "parameters": {}
+        },
+        "262": {
+            "size": {
+                "width": 1024,
+                "height": 768
+            },
+            "path": "262_H_Dzh.tiff",
+            "features": {
+                "262": {
+                    "position": {
+                        "x1": 9,
+                        "y1": 5,
+                        "x2": 479,
+                        "y2": 40
+                    },
+                    "value": "",
+                    "sypol": ""
+                }
+            },
+            "parameters": {}
+        },
+        "25": {
+            "size": {
+                "width": 1024,
+                "height": 768
+            },
+            "path": "25_MB_B2.tiff",
+            "features": {
+                "25": {
+                    "position": {
+                        "x1": 7,
+                        "y1": 4,
+                        "x2": 432,
+                        "y2": 42
+                    },
+                    "value": "",
+                    "sypol": ""
+                }
+            },
+            "parameters": {
+                "tool": {
+                    "name": "tool",
+                    "position": {
+                        "x1": 144,
+                        "y1": 552,
+                        "x2": 255,
+                        "y2": 570
+                    }
+                }
+            }
+        }
+    }
+}
